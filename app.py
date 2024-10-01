@@ -142,3 +142,4 @@ if st.button("Ask"):
 else:
     # Display chat history if no new input
     display_chat_history()
+
